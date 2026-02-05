@@ -1,0 +1,11 @@
+
+__pycache__/
+*.pyc
+
+reports/
+src/mission_history.json
+mission_history.json
+
+
+.vscode/
+.DS_Store

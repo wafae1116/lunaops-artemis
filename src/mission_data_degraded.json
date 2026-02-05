@@ -1,0 +1,14 @@
+{
+    "timestamp": "2031-08-21T14:32:00Z",
+    "habitat": {
+        "power_level": 65,
+        "oxygen_level": 81,
+        "temperature": 20
+    },
+    "tasks": [
+        {
+            "name": "Solar panel inspection",
+            "status": "delayed"
+        }
+    ]
+}
